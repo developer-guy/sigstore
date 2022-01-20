@@ -15,7 +15,7 @@ require (
 	github.com/coreos/go-oidc/v3 v3.1.0
 	github.com/go-rod/rod v0.101.8
 	github.com/go-test/deep v1.0.8
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.7
 	github.com/google/go-containerregistry v0.6.0
 	github.com/hashicorp/vault/api v1.3.0
 	github.com/mitchellh/go-homedir v1.1.0
