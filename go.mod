@@ -11,7 +11,7 @@ require (
 	github.com/Azure/go-autorest/autorest/to v0.4.0
 	github.com/Azure/go-autorest/autorest/validation v0.3.1 // indirect
 	github.com/ReneKroon/ttlcache/v2 v2.9.0
-	github.com/aws/aws-sdk-go v1.42.3
+	github.com/aws/aws-sdk-go v1.44.19
 	github.com/coreos/go-oidc/v3 v3.1.0
 	github.com/go-rod/rod v0.101.8
 	github.com/go-test/deep v1.0.8
@@ -27,7 +27,7 @@ require (
 	github.com/theupdateframework/go-tuf v0.0.0-20210722233521-90e262754396
 	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
-	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b
+	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	google.golang.org/genproto v0.0.0-20211018162055-cf77aa76bad2
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/square/go-jose.v2 v2.6.0
